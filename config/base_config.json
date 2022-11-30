@@ -1,0 +1,12 @@
+{
+    "learning_rate": 2e-4,
+    "save_checkpoints_steps": 25000,
+    "num_train_steps": 766000,
+    "model_size": "base",
+    "vocab_size": 32000,
+    "max_seq_length": 512,
+    "train_batch_size": 256,
+    "embedding_size": 768,
+    "generator_hidden_size": 0.33333,
+    "do_lower_case": false
+}
